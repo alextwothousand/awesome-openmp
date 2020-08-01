@@ -8,3 +8,18 @@
 
 # awesome-samp
 A curated list of awesome SAMP gamemodes, filterscripts, libraries, and software.
+
+## Contents
+* Gamemodes
+  * Roleplay
+  * Freeroam
+  * Deathmatch / Team Deathmatch
+  * Capture the Flag
+* Filterscripts
+  * Administration
+* Libraries
+  * Plugins
+  * Includes
+* Software
+  * Package Managers
+  * IDE's
