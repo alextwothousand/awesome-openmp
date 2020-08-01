@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![San Andreas Multiplayer](https://github.com/devlexanderxyz/awesome-samp/raw/master/images/samp.jpg)
+  <img src="https://github.com/devlexanderxyz/awesome-samp/raw/master/images/samp.jpg" alt="San Andreas Multiplayer"/>
   
-  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+  <img src="https://awesome.re/badge-flat.svg" alt="Awesome"/>
   
 </div>
 
