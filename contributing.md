@@ -8,9 +8,12 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- You must create **individual** pull requests for each awesome project you wish to suggest.
+- Your suggested awesome project must be [sampctl](https://sampctl.com) compatible.
+- You must create pull requests using this title template `[Library/Gamemode/Filterscript/Plugin/Other] Name - Description`.
+- You must create pull requests using [the PR template](pr-template.md).
+- Your project must be open source, and available on GitHub.
+- You musn't reference any URL but the GitHub URL (or the official website) of your project.
 
 Thank you for your suggestions!
 
