@@ -9,7 +9,7 @@
   - [ ] Other (please specify: ...)
 - GitHub URL: [user/repo](https://github.com/user/repo)
   - (Optional) Website URL: [google](https://google.com)
-- About your project: 
+- About the project: 
   - ...
 - Why do *you* believe this project is awesome?: 
   - ...
