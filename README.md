@@ -1,10 +1,6 @@
-<div align="center">
+<img src="https://github.com/devlexanderxyz/awesome-samp/raw/master/images/samp.jpg" alt="San Andreas Multiplayer" align="center"/>
   
-  <img src="https://github.com/devlexanderxyz/awesome-samp/raw/master/images/samp.jpg" alt="San Andreas Multiplayer"/>
-  
-  <img src="https://awesome.re/badge-flat.svg" alt="Awesome"/>
-  
-</div>
+<img src="https://awesome.re/badge-flat.svg" alt="Awesome"/>
 
 # awesome-samp
 A curated list of awesome SAMP gamemodes, filterscripts, libraries, plugins and SAMP-related software.
