@@ -8,7 +8,7 @@
   - [ ] Software
   - [ ] Other (please specify: ...)
 - GitHub URL: [user/repo](https://github.com/user/repo)
-  - (Optional) Website URL: [Click](https://google.com)
+  - (Optional) Website URL: [google](https://google.com)
 - About your project: 
   - ...
 - Why do *you* believe this project is awesome?: 
