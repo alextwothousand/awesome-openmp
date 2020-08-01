@@ -24,6 +24,8 @@ A curated list of awesome SAMP gamemodes, filterscripts, libraries, plugins and 
   * [Extensions for Code Editors](#extensions-for-code-editors)
 * [Other](#other)
 
+## Packages
+
 ### Gamemodes
 #### Roleplay
 - None so far...
@@ -53,8 +55,6 @@ A curated list of awesome SAMP gamemodes, filterscripts, libraries, plugins and 
 - [Pawn Tools](https://github.com/Southclaws/vscode-pawn) - Pawn tools for vscode, powered by sampctl.
 #### Compilers
 - [pawn-lang/compiler](https://github.com/pawn-lang/compiler) - Pawn compiler for SA-MP with bug fixes and new features - runs on Windows, Linux, macOS.
-
-
 
 ### Other
 - None so far...
