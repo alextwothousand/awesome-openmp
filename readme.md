@@ -7,7 +7,7 @@
 </div>
 
 # awesome-samp
-A curated list of awesome SAMP gamemodes, filterscripts, libraries, and software.
+A curated list of awesome SAMP gamemodes, filterscripts, libraries, plugins and SAMP-related software.
 
 ## Contents
 * Gamemodes
@@ -16,10 +16,10 @@ A curated list of awesome SAMP gamemodes, filterscripts, libraries, and software
   * Deathmatch / Team Deathmatch
   * Capture the Flag
 * Filterscripts
-  * Administration
 * Libraries
-  * Plugins
-  * Includes
+* Plugins
 * Software
   * Package Managers
   * IDE's
+  * Extensions for Code Editors
+* Other
