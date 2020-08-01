@@ -1,4 +1,4 @@
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 ![San Andreas Multiplayer](https://github.com/devlexanderxyz/awesome-samp/raw/master/images/samp.png)
 
