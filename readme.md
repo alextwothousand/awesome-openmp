@@ -13,7 +13,7 @@ A curated list of awesome SAMP gamemodes, filterscripts, libraries, plugins and 
 * [Gamemodes](#gamemodes)
   * [Roleplay](#roleplay)
   * [Freeroam](#freeroam)
-  * [Deathmatch / Team Deathmatch](#deathmatch-team-deathmatch)
+  * [Deathmatch / Team Deathmatch](#deathmatch--team-deathmatch)
   * [Capture the Flag](#capture-the-flag)
 * [Filterscripts](#filterscripts)
 * [Libraries](#libraries)
