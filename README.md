@@ -12,6 +12,7 @@ A curated list of awesome SAMP gamemodes, filterscripts, libraries, plugins and 
   * [Deathmatch / Team Deathmatch](#deathmatch--team-deathmatch)
   * [Capture the Flag](#capture-the-flag)
 * [Filterscripts](#filterscripts)
+* [Maps](#maps)
 * [Libraries](#libraries)
 * [Plugins](#plugins)
 * [Software](#software)
@@ -33,6 +34,9 @@ A curated list of awesome SAMP gamemodes, filterscripts, libraries, plugins and 
 - None so far...
 
 ### Filterscripts
+- None so far...
+
+### Maps
 - None so far...
 
 ### Libraries
