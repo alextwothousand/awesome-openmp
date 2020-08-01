@@ -1,7 +1,3 @@
----
-permalink: /
----
-
 <div align="center">
   
   ![San Andreas Multiplayer](https://github.com/devlexanderxyz/awesome-samp/raw/master/images/samp.jpg)
