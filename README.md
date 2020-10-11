@@ -3,7 +3,7 @@
 <img src="https://awesome.re/badge-flat.svg" alt="Awesome"/>
 
 # awesome-samp
-A curated list of awesome SAMP gamemodes, filterscripts, libraries, plugins and SAMP-related software.
+A curated list of awesome open.mp gamemodes, filterscripts, libraries, plugins and SAMP-related software.
 
 ## Contents
 * [Gamemodes](#gamemodes)
