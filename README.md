@@ -1,9 +1,9 @@
-<img src="https://camo.githubusercontent.com/f8f7b973a59ed250e4214cd11984b9c5a5ba5ec6/68747470733a2f2f7777772e6f70656e2e6d702f7374617469632f776f72646d61726b2d6c696768742d6d6f6e6f2e706e67" alt="San Andreas Multiplayer" align="center"/>
+<img src="https://camo.githubusercontent.com/f8f7b973a59ed250e4214cd11984b9c5a5ba5ec6/68747470733a2f2f7777772e6f70656e2e6d702f7374617469632f776f72646d61726b2d6c696768742d6d6f6e6f2e706e67" alt="Open Multiplayer" align="center"/>
   
 <img src="https://awesome.re/badge-flat.svg" alt="Awesome"/>
 
 # awesome-openmp
-A curated list of awesome open.mp gamemodes, filterscripts, libraries, plugins and SAMP-related software.
+A curated list of awesome open.mp gamemodes, filterscripts, libraries, plugins and open.mp-related software.
 
 ## Contents
 * [Gamemodes](#gamemodes)
